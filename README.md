@@ -11,3 +11,7 @@ Model performance was evaluated using accuracy and ROC-AUC metrics, with Random 
 
 - <b>Python</b> 
 - <b>GoogleColab</b>
+
+<p align="center">
+Problem Statement: <br/>
+<img src="[https://i.imgur.com/62TgaWL.png](https://i.imgur.com/y3KXfN5.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
