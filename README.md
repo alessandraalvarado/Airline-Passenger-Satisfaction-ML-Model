@@ -2,7 +2,11 @@
 
 <h2>Description</h2>
 This project applies supervised machine learning to predict airline passenger satisfaction using survey data capturing key service experience factors such as seat comfort, inflight service, cleanliness, online boarding, and onboard service. 
+<br/>
+<br/>
 The dataset was cleaned, encoded, and split into training and testing sets, and two classification models were developed to classify passengers as satisfied or neutral/dissatisfied: Logistic Regression and Random Forest. 
+<br/>
+<br/>
 Model performance was evaluated using accuracy and ROC-AUC metrics, with Random Forest achieving the strongest results (≈84% accuracy, AUC ≈0.91), while also highlighting the most influential drivers of satisfaction. The project translates these insights into actionable value for airlines by identifying priority areas for service improvement and demonstrating how predictive analytics can support data-driven decision-making in customer experience strategy.
 <br />
 
@@ -14,4 +18,29 @@ Model performance was evaluated using accuracy and ROC-AUC metrics, with Random 
 
 <p align="center">
 Problem Statement: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png](https://i.imgur.com/y3KXfN5.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y3KXfN5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+<p align="center">
+Variables: <br/>
+<img src="https://i.imgur.com/DjeNqm6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+<p align="center">
+Logistic Regression explanation: <br/>
+<img src="https://i.imgur.com/ZFIlnWk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+<p align="center">
+Random Forest explanation: <br/>
+<img src="https://i.imgur.com/ZFIlnWk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+<p align="center">
+Model Performance: <br/>
+<img src="https://i.imgur.com/wTgd5uC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+<p align="center">
+Takeaways: <br/>
+<img src="https://i.imgur.com/dx5uLxu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
